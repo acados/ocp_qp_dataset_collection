@@ -2,5 +2,7 @@
     "name": "qps_last_qp_one_sided_test.json",
     "N": 20,
     "has_slacks": false,
-    "has_masks": true
+    "has_masks": true,
+    "has_idxs_rev_not_idxs": false,
+    "definiteness": "positive definite"
 }

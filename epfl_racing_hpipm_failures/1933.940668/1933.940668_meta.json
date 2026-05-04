@@ -3,5 +3,6 @@
     "N": 25,
     "has_slacks": true,
     "has_masks": true,
-    "has_idxs_rev_not_idxs": false
+    "has_idxs_rev_not_idxs": false,
+    "definiteness": "indefinite"
 }

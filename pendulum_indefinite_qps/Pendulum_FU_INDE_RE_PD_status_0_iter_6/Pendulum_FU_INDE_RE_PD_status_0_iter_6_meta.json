@@ -1,0 +1,8 @@
+{
+    "name": "Pendulum_QP_Pendulum_FU_INDE_RE_PD_status_0_iter_6.json",
+    "N": 20,
+    "has_slacks": false,
+    "has_masks": false,
+    "has_idxs_rev_not_idxs": false,
+    "definiteness": "indefinite"
+}

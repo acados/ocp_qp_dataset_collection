@@ -2,5 +2,7 @@
     "name": "pendulum_sqp_qps_pendulum_rti_loop_qp_4.json",
     "N": 20,
     "has_slacks": false,
-    "has_masks": false
+    "has_masks": false,
+    "has_idxs_rev_not_idxs": false,
+    "definiteness": "positive definite"
 }

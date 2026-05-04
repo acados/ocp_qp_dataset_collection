@@ -2,5 +2,7 @@
     "name": "pend_idxs_rev_min_pend_idxs_rev_min_qp9.json",
     "N": 10,
     "has_slacks": true,
-    "has_masks": true
+    "has_masks": true,
+    "has_idxs_rev_not_idxs": true,
+    "definiteness": "positive definite"
 }
