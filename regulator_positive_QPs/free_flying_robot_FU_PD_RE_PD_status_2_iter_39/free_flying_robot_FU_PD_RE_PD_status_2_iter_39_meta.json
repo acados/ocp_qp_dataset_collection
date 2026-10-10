@@ -1,0 +1,8 @@
+{
+    "name": "regulator_free_flying_robot_FU_PD_RE_PD_status_2_iter_39.json",
+    "N": 50,
+    "has_slacks": false,
+    "has_masks": false,
+    "has_idxs_rev_not_idxs": false,
+    "definiteness": "positive definite"
+}
