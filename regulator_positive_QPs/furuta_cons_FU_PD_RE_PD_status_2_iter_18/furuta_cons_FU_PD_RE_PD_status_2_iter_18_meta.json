@@ -1,0 +1,8 @@
+{
+    "name": "regulator_furuta_cons_FU_PD_RE_PD_status_2_iter_18.json",
+    "N": 20,
+    "has_slacks": false,
+    "has_masks": false,
+    "has_idxs_rev_not_idxs": false,
+    "definiteness": "positive definite"
+}

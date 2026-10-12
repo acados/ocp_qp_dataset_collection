@@ -1,0 +1,8 @@
+{
+    "name": "regulator_pendulum_cons_FU_PD_RE_PD_status_2_iter_12.json",
+    "N": 25,
+    "has_slacks": false,
+    "has_masks": false,
+    "has_idxs_rev_not_idxs": false,
+    "definiteness": "positive definite"
+}

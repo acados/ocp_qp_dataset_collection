@@ -1,0 +1,8 @@
+{
+    "name": "regulator_overhead_crane_FU_PD_RE_PD_status_2_iter_47.json",
+    "N": 40,
+    "has_slacks": false,
+    "has_masks": false,
+    "has_idxs_rev_not_idxs": false,
+    "definiteness": "positive definite"
+}
