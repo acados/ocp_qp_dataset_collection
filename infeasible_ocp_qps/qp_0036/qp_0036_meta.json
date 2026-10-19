@@ -1,0 +1,8 @@
+{
+    "name": "infeasible_ocp_qps_qp_0036.json",
+    "N": 20,
+    "has_slacks": false,
+    "has_masks": true,
+    "has_idxs_rev_not_idxs": false,
+    "definiteness": "positive definite"
+}
