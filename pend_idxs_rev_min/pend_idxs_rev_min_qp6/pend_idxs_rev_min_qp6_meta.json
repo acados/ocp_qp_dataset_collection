@@ -4,5 +4,6 @@
     "has_slacks": true,
     "has_masks": true,
     "has_idxs_rev_not_idxs": true,
-    "definiteness": "positive definite"
+    "definiteness": "positive definite",
+    "has_reference_solution": true
 }
