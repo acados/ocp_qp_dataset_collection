@@ -1,0 +1,9 @@
+{
+    "name": "time_optimal_crane_crane_qp_0.json",
+    "N": 7,
+    "has_slacks": false,
+    "has_masks": false,
+    "has_idxs_rev_not_idxs": false,
+    "definiteness": "positive semidefinite",
+    "has_reference_solution": true
+}
