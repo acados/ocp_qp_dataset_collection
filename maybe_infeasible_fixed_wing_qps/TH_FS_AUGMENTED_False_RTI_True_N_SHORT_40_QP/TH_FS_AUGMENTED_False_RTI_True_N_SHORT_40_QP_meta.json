@@ -1,0 +1,9 @@
+{
+    "name": "difficult_fixed_wing_qps_TH_FS_AUGMENTED_False_RTI_True_N_SHORT_40_QP.json",
+    "N": 40,
+    "has_slacks": true,
+    "has_masks": false,
+    "has_idxs_rev_not_idxs": false,
+    "definiteness": "positive definite",
+    "has_reference_solution": false
+}
